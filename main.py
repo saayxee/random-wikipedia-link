@@ -20,5 +20,7 @@ def get_random_wikipedia_article():
     except Exception as e:
         print(colored('Error', "light_red"), colored(e, "light_red"))
 
-# Get and print the random Wikipedia article link
-get_random_wikipedia_article()
+
+if __name__ == "__main__":
+  # Get and print the random Wikipedia article link
+  get_random_wikipedia_article()
