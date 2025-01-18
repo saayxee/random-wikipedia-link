@@ -2,7 +2,7 @@
 > [!caution]  
 > I am NOT in any way, affiliated with, endorsed by, or sponsored by Wikipedia and am creating this project as an independent developer.
  
-This CLI script aggregates a link to an absurdly random article on Wikipedia using the Wikipedia API.
+This python script aggregates a link to an absurdly random article on Wikipedia using the Wikipedia API and prints it.
 
 ## Setup
 > [!NOTE]  
