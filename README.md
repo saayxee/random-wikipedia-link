@@ -11,7 +11,7 @@ This python script aggregates a link to an absurdly random article on Wikipedia 
 **Clone the repository**
 
 ```bash
-git clone https://github.com/saayxee/norick
+git clone https://github.com/saayxee/random-wikipedia-link
 ```
 
 **Change directory**
