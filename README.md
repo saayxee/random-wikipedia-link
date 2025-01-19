@@ -2,7 +2,7 @@
 > [!caution]  
 > I am NOT in any way, affiliated with, endorsed by, or sponsored by Wikipedia and am creating this project as an independent developer.
  
-This python script aggregates a link to an absurdly random article on Wikipedia using the Wikipedia API and prints it.
+This Python script aggregates a link to an absurdly random article on Wikipedia using the Wikipedia API and prints it.
 
 ## Setup
 > [!NOTE]  
@@ -33,7 +33,7 @@ python main.py
 ```
 
 ## Contribution/Bugs
-If you experience any bugs regarding the tool, please open an issue and document the problem in detail so that I can fix it and fix it as needed.
+> If you experience any bugs regarding the tool, please open an issue and document the problem in detail so that I can fix it and fix it as needed.
 
 If you want to contribute a feature or fix a bug yourself, kindly act per the following instructions/guide:
 - Fork the repository.
